@@ -1,16 +1,7 @@
 resume
 ======
 
-This is both my personal resume and an example of a DevOps Engineer's
-technical resume.
-
-The LaTeX code is licensed under the MIT license, to prevent any ambiguity
-about the fact that you are welcome to copy it and use it for whatever
-purposes you like. The intended purpose is to make your own resume pretty
-without having to think very much about LaTeX.
-
-See my advice at http://lug.oregonstate.edu/blog/resume/ for other technical
-resume tips.
+Thanks to github.com/edunham for sharing this. I have adapted her LateX file to generate my resume.
 
 How to use
 ----------
@@ -72,16 +63,6 @@ Job Search Links
   repo lists a whole lot of companies with "unconfentional" interview
   techniques
 
-
-Portland-specific job aggregators
-=================================
-
-* Meet people at events on [Calagator](http://calagator.org/).
-* [pdxpipeline](http://pdxpipeline.com/jobs/) has tech and non-tech listings
-* [Silicon Florist](http://siliconflorist.com/jobs/) has salaried and hourly
-  tech postings
-* [portlandtech](http://portlandtech.org/) has a bunch of poorly formatted
-* postings, and some useful sidebar links
 
 Interview Prep and Company Research Links
 =========================================
