@@ -1,7 +1,7 @@
-resume
+Résumé 
 ======
 
-Thanks to github.com/edunham for sharing this. I have adapted her LateX file to generate my resume.
+Thanks to https://github.com/edunham/ for sharing this. I have adapted her LateX file to generate my resume.
 
 How to use
 ----------
